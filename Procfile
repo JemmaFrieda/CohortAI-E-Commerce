@@ -1,1 +1,1 @@
-web: gunicorn CohortAI-E-Commerce.wsgi
+web: gunicorn CohortAI_E_Commerce.wsgi
