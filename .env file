@@ -1,1 +1,7 @@
-
+DEBUG=1
+SECRET_KEY=your-secret-key
+DB_NAME=cohortdb
+DB_USER=cohortuser
+DB_PASSWORD=cohortpass
+DB_HOST=db
+DB_PORT=5432
